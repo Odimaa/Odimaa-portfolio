@@ -9,7 +9,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Helvetica", sans-serif;
   color: #272829;
 }
 
@@ -23,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6, p{
-  font-family: "Bradley Hand", cursive;
+  font-family: "Courier", monospace;
 }
 
 /*--------------------------------------------------------------
@@ -460,7 +460,7 @@ transform: scale(1.5);
 }
 
 .container .card:hover .face.face1{
-  background: #149ddd;
+  background: #01FF70;
   transform: translateY(0);
 }
 
